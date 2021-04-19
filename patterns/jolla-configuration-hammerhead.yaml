@@ -1,0 +1,6 @@
+Description: Pattern with packages for hammerhead configurations
+Name: jolla-configuration-hammerhead
+Requires:
+- patterns-sailfish-device-configuration-hammerhead
+
+Summary: Jolla Configuration hammerhead
